@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <h1>👋 Hi, I'm <span style="color:#ff69b4;">Senushi Kawya</span></h1>
+    <img src=""C:\Users\shenu\Downloads\ChatGPT Image Sep 12, 2026, 04_11_18 PM.png"">
 
   <h3>💻 Software Engineering Student | 🎓 iCET Student</h3>
   
