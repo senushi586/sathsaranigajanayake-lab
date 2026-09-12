@@ -5,9 +5,11 @@
 
 <div align="center">
 
-  <h1>👋 Hi, I'm <span style="color:#ff69b4;">Senushi Kawya</span></h1>
+
 
   <h3>💻 Software Engineering Student | 🎓 iCET Student</h3>
+
+  <img src=""C:\Users\shenu\Downloads\ChatGPT Image Sep 12, 2026, 04_11_18 PM.png"">
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Learning+Java+%26+Web+Development;Always+Learning+New+Things!" /> 
 
